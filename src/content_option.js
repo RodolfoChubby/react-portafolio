@@ -1,11 +1,11 @@
-const logotext = "CHOOBY";
+const logotext = "CHUBBY";
 const meta = {
     title: "John Doe",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "Soy Rodolfo, alias el chooby",
+    title: "Soy Rodolfo, alias el Chubby",
     animated: {
         first: "Me encanta programar",
         second: "Programo exelentes sitios web",
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "¿Quién soy yo?",
-    aboutme: "¡Hola! Soy Rodolfo Nuñez, mejor conocido como Chooby, un apasionado desarrollador web con una habilidad especial para crear aplicaciones web dinámicas y responsivas. Con una formación en la Universidad Tecnológica del Sur de Sonora (UTS), me especializo tanto en el desarrollo front-end como en el back-end, esforzándome por ofrecer experiencias de usuario impecables a través de un código limpio y eficiente.",
+    aboutme: "¡Hola! Soy Rodolfo Nuñez, mejor conocido como Chubby, un apasionado desarrollador web con una habilidad especial para crear aplicaciones web dinámicas y responsivas. Con una formación en la Universidad Tecnológica del Sur de Sonora (UTS), me especializo tanto en el desarrollo front-end como en el back-end, esforzándome por ofrecer experiencias de usuario impecables a través de un código limpio y eficiente.",
 };
 const worktimeline = [{
     jobtitle: "Desarrollador aplicaiones moviles",
@@ -147,10 +147,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/RodolfoChubby",
+    linkedin: "https://www.linkedin.com/in/rodolfo-nuñez-530676290/",
 };
 export {
     meta,
