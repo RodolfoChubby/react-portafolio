@@ -22,7 +22,7 @@ export const ContactUs = () => {
     setFormData({ ...formData, loading: true });
 
     try {
-      const response = await axios.post('http://localhost:3001', {
+      const response = await axios.post('https://dutch-callida-rodolfo-industries-25cca953.koyeb.app', {
         nombre: formData.name,
         correo: formData.email,
         mensaje: formData.message,
